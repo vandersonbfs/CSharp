@@ -1,0 +1,14 @@
+C:\Users\Vanderson\Documents\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Vanderson\Documents\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Vanderson\Documents\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Vanderson\Documents\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Vanderson\Documents\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Vanderson\Documents\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Vanderson\Documents\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+C:\Users\Vanderson\Documents\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderson\Documents\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Vanderson\Documents\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Vanderson\Documents\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Vanderson\Documents\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Vanderson\Documents\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Vanderson\Documents\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
